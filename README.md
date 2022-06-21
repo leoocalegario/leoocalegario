@@ -1,7 +1,7 @@
 ### Fala amigos, eu sou Leonardo, um prazer ter vocês aqui
 
 
-- 🔭 Trabalhando com desenvolvimento de sites e edição de vídeos
+- 🔭 Trabalhando com criação de sites e edição de vídeos
 - 🌱 Javascript
 - 📫 Entre em contato pelo e-mail: leonardo.r.calegario@hotmail.com
 

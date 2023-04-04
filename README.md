@@ -1,8 +1,7 @@
 ### Fala amigos, eu sou Leonardo, um prazer ter vocês aqui
 
 
-- 🔭 Trabalhando com C, Python e HTML
-- 🌱 Javascript
+- 🔭 Trabalhando com HTML, CSS & JS
 - 📫 Entre em contato pelo e-mail: leonardo.r.calegario@hotmail.com
 
 <div align="center">

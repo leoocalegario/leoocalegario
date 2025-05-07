@@ -1,7 +1,7 @@
 ### Fala amigos, eu sou Leonardo, um prazer ter vocês aqui
 
 
-- 🔭 Trabalhando com JAVA e MYSQL
+
 - 📫 Entre em contato pelo e-mail: leonardo.r.calegario@hotmail.com
 
 <div align="center">

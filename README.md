@@ -6,9 +6,8 @@
 **Backend • DevSecOps • Cloud**  
 Construo soluções seguras, escaláveis e bem documentadas — do **código** à **infraestrutura**.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-online-1f6feb?style=for-the-badge&logo=vercel)](https://seu-portfolio-aqui.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_PERFIL/)
-[![Instagram](https://img.shields.io/badge/Instagram-@seuuser-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/SEU_USUARIO)
+[![Portfolio](https://img.shields.io/badge/Portfolio-online-1f6feb?style=for-the-badge&logo=vercel)]([https://seu-portfolio-aqui.com](https://portfolio.leonardocalegario.com/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Conectar-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/SEU_PERFIL/](https://www.linkedin.com/in/leonardo-calegario-228981232/))
 [![Email](https://img.shields.io/badge/Email-leonardo.r.calegario%40hotmail.com-6c757d?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leonardo.r.calegario@hotmail.com)
 
 </div>
@@ -85,7 +84,6 @@ Construo soluções seguras, escaláveis e bem documentadas — do **código** �
 
 <div align="center">
   
-![visitors](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&style=flat&color=1f6feb)
   
 ⭐️ Se curtiu, deixe um star nos repositórios!
 
